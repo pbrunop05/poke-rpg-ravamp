@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/home/ethan/dev/bruno/poke-rpg-revamp/PokeRpgRevamp/Content/Font.spritefont</SourceFile>
+  <SourceTime>2026-08-28T16:49:23.1811237-03:00</SourceTime>
+  <DestFile>/home/ethan/dev/bruno/poke-rpg-revamp/PokeRpgRevamp/Content/bin/DesktopGL/Content/Font.xnb</DestFile>
+  <DestTime>2026-08-28T16:49:29.2559737-03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2024-08-16T14:05:56-03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2024-08-16T14:05:56-03:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
